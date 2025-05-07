@@ -17,6 +17,7 @@ int suma;
 int resta;
 int multiplicacion;
 int division;
+cout<< "este programa suma,resta,multiplica y divide dos numeros" <<endl;
 cout<<"ingrese el primer numero: ";
 cin>> num1;
 cout<<"ingrese el segundo numero: ";
