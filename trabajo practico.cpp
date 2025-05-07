@@ -10,6 +10,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
 using namespace std;
 int main()
 {
+// a este programa no le agregue comentarios porque no es parte del tp1, pero me acuerdo que me dijo que hiciera este programa
 int num1;
 int num2;
 int suma;
